@@ -55,5 +55,4 @@ Posibles secciones podrían ser:
 
 -----
 
-Escrito por *[Alejandro Carrasco Rodríguez](https://gitlab.com/virtualitems)© 2022*
-
+Escrito por *[Alejandro Carrasco Rodríguez](https://github.com/virtualitems/)© 2022*
