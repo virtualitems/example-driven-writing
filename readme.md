@@ -1,4 +1,4 @@
-# Example Driven Writting | Escritura dirigida por ejemplos
+# Example Driven Writting | Escritura Dirigida por Ejemplos
 
 ## Ejemplo general
 
