@@ -12,9 +12,9 @@
 
 ## Definición
 
-Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodología para escribir textos académicos con el propósito de facilitar el entendimiento al enfocarse en ejemplos del tema en cuestión. El método implica primero ejemplificar el tema y después darle explicación.
+> Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodología para escribir textos académicos con el propósito de facilitar el entendimiento al enfocarse en ejemplos del tema en cuestión. El método implica primero ejemplificar el tema y después darle explicación.
 
-Ésto es especialmente útil al explicar conceptos desde un enfoque práctico, encontrar un tema específico entre diversos artículos guiándose por los ejemplos o releer textos recordando el tema desde el ejemplo propuesto.
+> Ésto es especialmente útil al explicar conceptos desde un enfoque práctico, encontrar un tema específico entre diversos artículos guiándose por los ejemplos o releer textos recordando el tema desde el ejemplo propuesto.
 
 ## Estructura
 
@@ -25,19 +25,19 @@ Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodolog
     * Advertencias
     * Referencias
 
-Ésta es la estructura básica de un artículo escrito con la metodología Example Driven Writting.
+> Ésta es la estructura básica de un artículo escrito con la metodología Example Driven Writting.
 
-El primer elemento en la lista es el título que encabeza y enuncia el artículo según su contenido.
+1. El primer elemento en la lista es el título que encabeza y enuncia el artículo según su contenido.
 
-El segundo elemento de la lista pero el primer componente del contenido es, por su puesto, el ejemplo.
+2. El segundo elemento de la lista pero el primer componente del contenido es, por su puesto, el ejemplo.
 
-A continuación se explicará el ejemplo ya sea de forma deductiva o inductiva según favoresca el entendimiento del material.
+3. A continuación se explicará el ejemplo ya sea de forma deductiva o inductiva según favoresca el entendimiento del material.
 
-El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye al entendimiento del lector.
+4. El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye al entendimiento del lector.
 
-Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, esta sección es opcional.
+5. Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, esta sección es opcional.
 
-Finalmente las referencias enlazan el documento con sus fuentes.
+6. Finalmente las referencias enlazan el documento con sus fuentes.
 
 ## Secciones
 
@@ -46,12 +46,14 @@ Finalmente las referencias enlazan el documento con sus fuentes.
     * Explicación de por qué sucede y cómo evitarlo
     * Referencias a foros donde podrían dar solución
 
-Una sección es un conjunto de subtemas que se explicarán detalladamente usando la metodología Example Driven Writting.
+> Una sección es un conjunto de subtemas que se explicarán detalladamente usando la metodología Example Driven Writting.
 
 Posibles secciones podrían ser:
 * Casos de uso
 * Casos especiales
 * Errores comunes
+
+-----
 
 Escrito por *[Alejandro Carrasco Rodríguez](https://gitlab.com/virtualitems)© 2022*
 
