@@ -12,9 +12,9 @@
 
 ## Definición
 
-> Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodología para escribir textos académicos con el propósito de facilitar el entendimiento al enfocarse en ejemplos del tema en cuestión. El método implica primero ejemplificar el tema y después darle explicación.
+Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodología para escribir textos académicos con el propósito de facilitar el entendimiento al enfocarse en ejemplos del tema en cuestión. El método implica primero ejemplificar el tema y después darle explicación.
 
-> Ésto es especialmente útil al explicar conceptos desde un enfoque práctico, encontrar un tema específico entre diversos artículos guiándose por los ejemplos o releer textos recordando el tema desde el ejemplo propuesto.
+Ésto es especialmente útil al explicar conceptos desde un enfoque práctico, encontrar un tema específico entre diversos artículos guiándose por los ejemplos o releer textos recordando el tema desde el ejemplo propuesto.
 
 ## Estructura
 
@@ -25,7 +25,7 @@
     * Advertencias
     * Referencias
 
-> Ésta es la estructura básica de un artículo escrito con la metodología Example Driven Writting.
+Ésta es la estructura básica de un artículo escrito con la metodología Example Driven Writting.
 
 1. El primer elemento en la lista es el título que encabeza y enuncia el artículo según su contenido.
 
@@ -46,7 +46,7 @@
     * Explicación de por qué sucede y cómo evitarlo
     * Referencias a foros donde podrían dar solución
 
-> Una sección es un conjunto de subtemas que se explicarán detalladamente usando la metodología Example Driven Writting.
+Una sección es un conjunto de subtemas que se explicarán detalladamente usando la metodología Example Driven Writting.
 
 Posibles secciones podrían ser:
 * Casos de uso
