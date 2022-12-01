@@ -35,7 +35,7 @@ Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodolog
 
 4. El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye a la profundización del tema.
 
-5. Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, esta sección es opcional.
+5. Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, éste punto es opcional.
 
 6. Finalmente las referencias enlazan el documento con sus fuentes.
 
