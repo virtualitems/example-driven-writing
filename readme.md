@@ -33,7 +33,7 @@ Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodolog
 
 3. A continuación se explicará el ejemplo ya sea de forma deductiva o inductiva según favoresca al entendimiento del material.
 
-4. El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye al entendimiento del lector.
+4. El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye a la profundización del tema.
 
 5. Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, esta sección es opcional.
 
