@@ -1,57 +1,37 @@
-# Example Driven Writting | Escritura Dirigida por Ejemplos
+# Example Driven Writting (Escritura Guiada por Ejemplos)
 
-## Ejemplo general
+Es una metodología para escribir textos académicos. Su propósito es facilitar el entendimiento al enfocarse en los ejemplos del tema en cuestión.
 
-**Tema principal**
-* Ejemplo del tema principal
-* Explicación del tema principal
+En Example Driven Writting primero debes definir los ejemplos que vas a utilizar para explicar el tema y después escribir los textos basándote en los ejemplos.
 
-**Caso especial**
-* Ejemplo del caso especial
-* Explicación del caso especial
+Esto no significa que siempre mostrarás al lector primero el ejemplo y después la descripción. Los componentes pueden estar en el orden que mejor se adapten a la explicación. La idea es que los ejemplos sean el eje central del documento.
 
-## Definición
+Ésto es especialmente útil al exponer conceptos desde un enfoque práctico o releer textos recordando el tema desde el ejemplo propuesto.
 
-Example Driven Writting o Escritura Dirigida por Ejemplos tiene es una metodología para escribir textos académicos que tiene como propósito facilitar el entendimiento al enfocarse en ejemplos del tema en cuestión. El método implica primero ejemplificar el tema y después darle explicación.
+<br />
 
-Ésto es especialmente útil al explicar conceptos desde un enfoque práctico, encontrar un tema específico entre diversos artículos guiándose por los ejemplos o releer textos recordando el tema desde el ejemplo propuesto.
 
-## Estructura
+## Índice
 
-* Título
-    * Ejemplo
-    * Explicación
-    * Contexto
-    * Advertencias
-    * Referencias
+En la metodoogía Example Driven Writting, el índice debe ser escrito basándose en ejemplos o conjuntos de ejemplos que ilustren conceptos.
 
-Ésta es la estructura básica de un artículo escrito con la metodología Example Driven Writting.
+Por ejemplo, el índice para un documento acerca del uso del lenguaje de programación Python podría ser el siguiente:
 
-1. El primer elemento en la lista es el título que encabeza y enuncia el artículo según su contenido.
+1. **Introducción:** Ejemplos de aplicaciones en Python
+2. **Instalación:** Guía de instalación de Python
+3. **Variables:** Ejemplos de variables
+4. **Funciones:** Ejemplos de funciones
+5. **Clases:** Ejemplos de clases
+6. ...
 
-2. El segundo elemento de la lista pero el primer componente del contenido es, por su puesto, el ejemplo.
+<br />
 
-3. A continuación se explicará el ejemplo ya sea de forma deductiva o inductiva según favoresca al entendimiento del material.
 
-4. El contexto se refiere a la razón del ¿Por qué? o ¿Para qué? de lo expuesto en el artículo. Es un punto opcional pero contribuye a la profundización del tema.
+## Punto ciego del experto
 
-5. Las advertencias son dificultades conocidas, errores comunes o incógnitas con las que podría toparse el lector al emplear los conocimientos del artículo. Nuevamente, éste punto es opcional.
+El punto ciego del experto es un fenómeno que ocurre cuando a una persona con conocimiento avanzado se le dificulta explicar conceptos básicos de ese tema.
 
-6. Finalmente las referencias enlazan el documento con sus fuentes.
-
-## Secciones
-
-* Error común #1
-    * Ejemplo del error
-    * Explicación de por qué sucede y cómo evitarlo
-    * Referencias a foros donde podrían dar solución
-
-Una sección es un conjunto de subtemas que se explicarán detalladamente usando la metodología Example Driven Writting.
-
-Posibles secciones podrían ser:
-* Casos de uso
-* Casos especiales
-* Errores comunes
+Al escribir un texto, debes tener en cuenta que el lector no tiene tu mismo conocimiento. Por lo tanto, el texto debe ser claro y carente de ambigüedades.
 
 -----
 
