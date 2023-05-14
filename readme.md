@@ -11,6 +11,18 @@ Esto es especialmente útil al exponer conceptos desde un enfoque práctico o re
 <br />
 
 
+## Ejemplo
+
+Python es un lenguaje de programación interpretado cuya filosofía se enfoca en la legibilidad del código. Por esta razón, algunos símbolos comunes utilizados en programación han sido reemplazados por palabras en inglés.
+
+```python
+var = object()
+
+if var is not None:  # equivalente a: var != None
+    print('var is not None')
+```
+
+
 ## Índice
 
 En la metodología Example Driven Writing, el índice debe ser escrito basándose en ejemplos o conjuntos de ejemplos que ilustren conceptos.
