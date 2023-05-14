@@ -6,7 +6,7 @@ En Example Driven Writing primero debes definir los ejemplos que vas a utilizar 
 
 Esto no significa que siempre mostrarás al lector primero el ejemplo y después la descripción. Los componentes pueden estar ordenados de la manera que mejor se adapte a la explicación. La idea es que los ejemplos sean el eje central del documento.
 
-El método Guiado por Ejemplos es especialmente útil al exponer conceptos desde un enfoque práctico o releer textos recordando el tema desde el ejemplo propuesto.
+El método es especialmente útil al exponer conceptos desde un enfoque práctico o releer textos recordando el tema desde el ejemplo propuesto.
 
 <br />
 
