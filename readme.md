@@ -22,6 +22,8 @@ if var is not None:  # equivalente a: var != None
     print('var is not None')
 ```
 
+<br />
+
 
 ## Índice
 
